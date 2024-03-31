@@ -6,35 +6,35 @@ import history from '../../Data/History.json'
 
 export const Experience = () => {
   return (
-    <section id="experience">
-      <h2>Experience</h2>
-      <div>
-          <div>{
+    <section className={styles.container} id="experience">
+      <h2 className={styles.title}>Experience</h2>
+      <div className={styles.content}>
+          <div className={styles.skills}>{
             skills.map((skill,id)=>{
-              return <div key={id}>
-                <div>
+              return <div key={id} className={styles.skill}>
+                <div className={styles.skillImage}>
                   <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
                 </div>
                 <p>{skill.title}</p>
                 </div>
             })
             }</div>
-            <ul>
+            <ul className={styles.history}>
               {
                 history.map((historyItem,id)=>{
-                  return <li key={id}>
+                  return <li key={id} className={styles.historyItem}>
                     <img src={getImageUrl(historyItem.imageSrc)} alt={`${historyItem.organization}Logo`} />
-                    <div>
+                    <div className={styles.historyItemdetails}>
                       <h3>{`${historyItem.role},${historyItem.organization}`}</h3>
-                    </div>
+                    
                     <p>{`${historyItem.startDate}-${historyItem.endDate}`}</p>
                     
                     <ul>
                       {historyItem.experiences.map((experience,id)=>{
-                        return <li key={id}>{experience}
-                        </li>
+                        return <li key={id}>{experience}</li>
                        } )}
                     </ul>
+                    </div>
                   </li>
                   
                 })
