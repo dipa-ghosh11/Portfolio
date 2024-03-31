@@ -1,0 +1,26 @@
+[
+    {
+        "title":"Kandriya Nasha Mukti Platform",
+        "imageSrc": "project/project.png",
+        "description":"This is the latest group project of Smart India Hackathon 2023",
+        "skills":["React","Express" ,"Node","Mongo"],
+        "demo":"",
+        "source":"https://github.com/dipa-ghosh11/nmdb-sih"
+    },
+    {
+        "title":"TicTacToe Game",
+        "imageSrc": "project/project.png",
+        "description":"A simple funny TicTacToe game",
+        "skills":["HTML","CSS","JavaScript"],
+        "demo":"",
+        "source":"https://github.com/dipa-ghosh11/TicTacToe"
+    },
+    {
+        "title":"Portfolio Project",
+        "imageSrc": "project/project.png",
+        "description":"A animated portfolio",
+        "skills":["React","CSS"],
+        "demo":"",
+        "source":"https://github.com/dipa-ghosh11/Portfolio"
+    }
+]
