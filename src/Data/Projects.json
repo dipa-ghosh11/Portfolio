@@ -21,7 +21,7 @@
         "imageSrc": "project/project.png",
         "description":"This is my protfolio website. This is made using following stacks:",
         "skills":["React","CSS","HTML"],
-        "demo":"",
+        "demo":"https://starlit-croquembouche-4919bd.netlify.app/",
         "source":"https://github.com/dipa-ghosh11/Portfolio"
     }
      
