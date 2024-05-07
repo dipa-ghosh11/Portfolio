@@ -1,26 +1,26 @@
 [
     {
-        "role":"Software Engineer",
-        "organization":"xyz",
-        "startDate":"xx",
+        "role":"Full Stack Web Development",
+        "organization":" Ardent Computech Pvt. Ltd",
+        "startDate":"May, 2024",
         "endDate":"present",
-        "experiences":["sncinxiqwn","chiuqwhichne"],
-        "imageSrc":"history/google.png"
+        "experiences":["React","MongoDB","ExpressJs","NodeJs"],
+        "imageSrc":"about/uiIcon.png"
     },
     {
-        "role":"Software Engineer",
-        "organization":"xyz",
-        "startDate":"xx",
-        "endDate":"yy",
-        "experiences":["sncinxiqwn","chiuqwhichne"],
-        "imageSrc":"history/google.png"
+        "role":"Data Analyst",
+        "organization":" MedTourEasy",
+        "startDate":"Sep, 2023",
+        "endDate":"Oct, 2023",
+        "experiences":["R","Tableau","SQL"],
+        "imageSrc":"about/uiIcon.png"
     },
     {
-        "role":"Software Engineer",
-        "organization":"xyz",
-        "startDate":"xx",
-        "endDate":"yy",
-        "experiences":["sncinxiqwn","chiuqwhichne"],
-        "imageSrc":"history/google.png"
+        "role":"Core Member",
+        "organization":" Coding Junction Club",
+        "startDate":"Jan, 2023",
+        "endDate":"present",
+        "experiences":["Python","Machine Learning"],
+        "imageSrc":"about/uiIcon.png"
     }
 ]

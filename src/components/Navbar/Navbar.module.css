@@ -25,6 +25,7 @@
     display: flex;
     gap: 47px;
     list-style: none;
+  
 }
 
 .menuitems a{
@@ -33,6 +34,13 @@
     text-decoration: none;
 }
 
+.menuBtn{
+    display: none;
+}
+
+.span{
+    color: rgb(89, 165, 236);
+}
 @media screen and (max-width: 830px){
     .navbar{
         flex-direction: column;

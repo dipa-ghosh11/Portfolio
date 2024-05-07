@@ -1,26 +1,28 @@
 [
     {
-        "title":"Kandriya Nasha Mukti Platform",
+        "title":"Waltz 2023-College Fest Website",
         "imageSrc": "project/project.png",
-        "description":"This is a project made to learn the latest languages by building an app.",
+        "description":"This is a college fest website.",
         "skills":["React","Express","Node"],
-        "demo":"",
-        "source":"https://github.com/dipa-ghosh11/nmdb-sih"
+        "demo":"https://waltz-client-bay.vercel.app/",
+        "source":"https://github.com/dipa-ghosh11/waltz-client"
     },
     {
-        "title":"TicTacToe Game",
+        "title":"Kendriya Nasha Mukti Portal",
         "imageSrc": "project/project.png",
-        "description":"This is a project made to learn the latest languages by building an app.",
-        "skills":["HTML","CSS","JavaScript"],
-        "demo":"",
-        "source":"https://github.com/dipa-ghosh11/TicTacToe"
+        "description":"Smart India Hackathon Grand Finale 2023 Project.",
+        "skills":["React","CSS","JavaScript"],
+        "demo":"https://6639d2c4822f94b0a41cb18b--gregarious-tulumba-9063c0.netlify.app/",
+        "source":"https://github.com/dipa-ghosh11/nmdb-sih"
     },
+   
     {
         "title":"Portfolio Project",
         "imageSrc": "project/project.png",
-        "description":"This is a project made to learn the latest languages by building an app.",
+        "description":"This is my protfolio website. This is made using following stacks:",
         "skills":["React","CSS","HTML"],
         "demo":"",
         "source":"https://github.com/dipa-ghosh11/Portfolio"
     }
+     
 ]

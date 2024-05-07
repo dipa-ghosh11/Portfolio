@@ -6,7 +6,7 @@ export const Navbar = () => {
     const [menuOpen,setMenuOpen]=useState(false);
   return (
     <nav className={styles.navbar}>
-        <a className={styles.title} href="/">Portfolio</a>
+        <a className={styles.title} href="/">Port<span className={styles.span}>folio</span></a>
         <div className={styles.menu}>
             <img className={styles.menuBtn} src={menuOpen ? getImageUrl("nav/closeIcon.png") : getImageUrl("nav/menuicon.png")} alt="menu-button"
             onClick={()=>setMenuOpen(!menuOpen)} />

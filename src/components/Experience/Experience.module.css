@@ -14,6 +14,7 @@
     font-weight: 700;
     letter-spacing: 1.75px;
     text-transform: uppercase;
+    margin-bottom: 40px;
 }
 
 .content{
@@ -45,6 +46,10 @@
     justify-content: center;
     width: 120px;
     height: 120px;
+}
+.skillImage:hover{
+    transform: scale(1.15);
+    transition: .3s;
 }
 
 .skillImage img{
