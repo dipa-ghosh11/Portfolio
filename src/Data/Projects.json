@@ -1,9 +1,17 @@
 [
     {
+        "title":"Aaragya:E-healthcare management system",
+        "imageSrc": "project/project.png",
+        "description":"This is a web app for patient and doctors.",
+        "skills":["React","ExpressJs","NodeJs","Mongodb","AI/ML"],
+        "demo":"https://e-healthcare-management-system.vercel.app/",
+        "source":"https://github.com/dipa-ghosh11/E-healthcare-Management-System"
+    },
+    {
         "title":"Waltz 2023-College Fest Website",
         "imageSrc": "project/project.png",
-        "description":"This is a college fest website.",
-        "skills":["React","Express","Node"],
+        "description":"This is a college fest website WALTZ 2K23.",
+        "skills":["React","CSS","UI/UX"],
         "demo":"https://waltz-client-bay.vercel.app/",
         "source":"https://github.com/dipa-ghosh11/waltz-client"
     },
@@ -11,18 +19,11 @@
         "title":"Kendriya Nasha Mukti Portal",
         "imageSrc": "project/project.png",
         "description":"Smart India Hackathon Grand Finale 2023 Project.",
-        "skills":["React","CSS","JavaScript"],
+        "skills":["React","CSS","NodeJs","Mongodb","ExpressJs"],
         "demo":"https://6639d2c4822f94b0a41cb18b--gregarious-tulumba-9063c0.netlify.app/",
         "source":"https://github.com/dipa-ghosh11/nmdb-sih"
-    },
-   
-    {
-        "title":"Portfolio Project",
-        "imageSrc": "project/project.png",
-        "description":"This is my protfolio website. This is made using following stacks:",
-        "skills":["React","CSS","HTML"],
-        "demo":"https://starlit-croquembouche-4919bd.netlify.app/",
-        "source":"https://github.com/dipa-ghosh11/Portfolio"
     }
+   
+    
      
 ]

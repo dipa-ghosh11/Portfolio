@@ -34,16 +34,13 @@
     font-family:var(--font-roboto);
     margin-bottom: 52px;
 }
-
+/* 
 .btn{
     display: flex;
-    /* flex-direction: row;
-    letter-spacing: 200px; */
-    /* align-items: center;
-    justify-content: center; */
-    /* gap: 200px; */
+    flex-wrap: wrap; 
+   
 
-}
+} */
 
 .contactBtn{
     text-decoration: none;
@@ -68,8 +65,9 @@
     padding: 17px 25px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
     cursor: pointer;
-    margin-left: 20px;
-    margin-left: 20px;
+    margin-top: 20px;
+    /* margin-left: 20px; */
+  
 }
 
 .heroImg{
@@ -134,4 +132,7 @@
     .content{
         align-items: center;
     }
+    
+    
+    
 }
